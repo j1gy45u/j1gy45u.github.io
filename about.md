@@ -15,6 +15,11 @@ I also read fictions, play ukulele and keep finding new adventures.
 
 This is my home on the internet, where I talk about the stuff I learn in the process (mostly computers), it helps me self introspect myself and my journey.
 
+###HackerRank
+
+![Badges](https://user-images.githubusercontent.com/80179729/150666028-39c5e131-9ca2-4f6f-8c73-d252092b2353.png)
+
+
 ### Leave a message
 
 [Say Hello! I don't bite ;)](https://forms.gle/7sShsaN6Bz5pczzd7)
