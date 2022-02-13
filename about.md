@@ -9,16 +9,11 @@ published: true
 
 My name is Jigyasu and I'm 18 years old student living in India.
 
-I spend most of my time sleeping [(literally)](https://www.dreams.co.uk/sleep-matters-club/your-life-in-numbers-infographic/#:~:text=The%20average%20person%20spends%20about,12%2C045%20days%20spent%20in%20bed!), and when awake, I like making cool animations with code like [ this](https://twitter.com/cheesemaafia/status/1475328082487566338?s=20) and [this](https://twitter.com/cheesemaafia/status/1476444536314363905?s=20) and the one on the top.
+I spend most of my time sleeping [(literally)](https://www.dreams.co.uk/sleep-matters-club/your-life-in-numbers-infographic/#:~:text=The%20average%20person%20spends%20about,12%2C045%20days%20spent%20in%20bed!), and when awake, I like creating things with code, the animation at the top of this webpage is one of the examples of those creations.
 
-I also read fictions, play ukulele and keep finding new adventures. 
+Sometimes I also read fictions, play ukulele and keep looking for new adventures meanwhile. 
 
-This is my home on the internet, where I talk about the stuff I learn in the process (mostly computers), it helps me self introspect myself and my journey.
-
-### HackerRank
-
-![Badges](https://user-images.githubusercontent.com/80179729/150666216-0e9ce05f-d894-47a4-89f9-18d885997016.png)
-
+This is kind of my home on the internet, I talk about things that I learn in the process, occasionaly.
 
 ### Leave a message
 
