@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 published: true
 ---
-this page is intentionally left blank here
+18 y.o; creator of things, also destroys them once in a while
